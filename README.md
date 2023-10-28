@@ -11,6 +11,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftailwindcss.com%2Fbrand&psig=AOvVaw2Kzowh9vsyHTOBDewPHyjv&ust=1698606844897000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJi69d65mYIDFQAAAAAdAAAAABAE" alt="tailwindCSS" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
